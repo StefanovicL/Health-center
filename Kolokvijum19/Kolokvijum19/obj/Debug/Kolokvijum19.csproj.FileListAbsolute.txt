@@ -1,0 +1,17 @@
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\bin\Debug\Kolokvijum19.exe.config
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\bin\Debug\Kolokvijum19.exe
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\bin\Debug\Kolokvijum19.pdb
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.csproj.AssemblyReference.cache
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\MainWindow.g.cs
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\App.g.cs
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19_MarkupCompile.cache
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19_MarkupCompile.lref
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\MainWindow.baml
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.g.resources
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.Properties.Resources.resources
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.csproj.GenerateResource.cache
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.csproj.CoreCompileInputs.cache
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.exe
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Kolokvijum19.pdb
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Window1.g.cs
+D:\Users\stefa\Desktop\fax\Praktikum primenjenog programiranja\V6 - Priprema za prvi kolokvijum\Kolokvijum19\Kolokvijum19\obj\Debug\Window1.baml
